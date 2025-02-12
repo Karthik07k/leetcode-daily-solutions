@@ -9,6 +9,8 @@ I will be solving **one problem per day** and updating this repo regularly.
 - **Brute Force Solution:** [SolutionOne.java](SolutionOne.java)
 - **Optimized Solution:** [SolutionTwo.java](SolutionTwo.java)
 
+### ✅ 2. Best Time to Buy and Sell Stock (Easy)
+- **Optimized Solution:** [BestTimeToBuySellStock.java](BestTimeToBuySellStock.java)  
 ---
 
 🔹 Stay tuned for more solutions!  
